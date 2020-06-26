@@ -1,0 +1,104 @@
+body
+{
+	background-image:url(pexels-photo-1906794.jpeg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+
+
+}
+
+ ul a:link , ul a:visited
+{
+	
+	border-spacing: 10px;
+	text-decoration:none ;
+	color:white;
+	opacity:0.5;
+	font-size: 20px;
+}
+ul a:hover ,ul a:active
+{
+	
+	
+	opacity:0.8;
+	
+
+
+}
+li
+{
+	padding: 5px;
+	width:250px;
+}
+section
+{
+		
+	padding:20px;
+	opacity:0.7;
+
+}	
+section h2
+{
+	border-style:solid ;
+	border-color:lightskyblue;
+	background-color: lightskyblue;
+	opacity:1.0;
+	padding:20px;
+	border-radius: 10px;
+	text-align:center;
+	border-width: 1px;
+}	
+section article
+{
+	border-bottom-style:solid;
+	border-bottom-color:black ;
+	background-color:blanchedalmond;
+	font-family:monospace;
+	font-size:20px ;
+	padding:20px;
+	border-radius: 10px;
+	margin:10px;
+	border-width: 3px;
+}
+img
+{
+	opacity:0.6;
+}
+span
+{
+	float:left;
+}
+img:hover , img:active
+{
+	opacity:1.0;
+	
+
+}
+
+span:nth-child(2)
+{
+	
+	display:none;
+	text-align:center;
+	margin-left: 20px;
+	
+
+
+
+}
+div:hover span
+{
+	display:block;
+}
+h2:hover
+{
+	box-shadow: 2px 2px 3px white ,-2px -2px 3px white;
+	cursor:pointer ;
+	
+}
+
+
+		
+
+		
